@@ -1,5 +1,5 @@
 # Garth Webb 5409 Robotics: Official Website
-**5409 Robotics** is a team based in Oakville, Ontario that participates in the annual **First Robotics Canada Competition**.
+**5409 Robotics** is a team based in **Oakville, Ontario** that participates in the annual **First Robotics Canada Competition**.
 
 [Visit the **website**](https://5409robotics.netlify.app)
 
