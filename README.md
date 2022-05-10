@@ -13,3 +13,9 @@
 
 - **Eleventy** Static Website Generator
 - **Tailwind** CSS Framework
+
+---
+
+ # How to Run
+ 1. Just run ```npm install && npm start``` on your preferred **Terminal** app!
+ 2. Literally **done**.
