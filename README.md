@@ -1,4 +1,4 @@
-# A Website for GWSS Robotics 5409.
+# A Website for Garth Webb Robotics 5409.
 **5409 Robotics** is a team based in Oakville, Ontario that participates in the annual **First Robotics Canada Competition**.
 
 [Visit the **website**](https://5409robotics.netlify.app)
